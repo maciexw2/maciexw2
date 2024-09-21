@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciek</h1>
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning Tailwind
 
 - 📫 How to reach me **Discord: maciexw2**
 
