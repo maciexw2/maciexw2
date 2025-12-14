@@ -4,7 +4,7 @@
 - 📫 How to reach me **Discord: maciexw2**
 
 - 🌱 I’m currently learning Tailwind
-- 🧑‍💻 **Just Services** - 
+- 🧑‍💻 **Next Level Works** - Main Developer / Owner
 - 🎯 **Our projects: https://www.behance.net/nextlevelworks**
 
 <h3 align="left">Languages and Tools:</h3>
